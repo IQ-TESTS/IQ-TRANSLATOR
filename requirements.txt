@@ -1,2 +1,0 @@
-flet==0.24.0.dev3327
-deep-translator==1.11.1
